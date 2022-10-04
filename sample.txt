@@ -20,3 +20,7 @@ in 5th file we add some values
 //RKRITTIK17@gmail.com
 //rittik's email id
 
+
+//NETFLIX CLONE 
+this project was made by the reference of CLEVER PROGRAMMER
+it depends upon the MERN
