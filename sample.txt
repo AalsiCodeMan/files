@@ -1,9 +1,9 @@
 This is data Science project files
 
-First file for Project 2
+First file for Project first
 2nd files for undorstanding
 
-First file for project1
+First file for project second
 
 Second files for understanding
 
